@@ -12,3 +12,6 @@
 #     shield: reviung41
 #
 ---
+include:
+  - board: nice60client
+  - board: nice60client

@@ -1,0 +1,12 @@
+file_format: "1"
+id: nice60client
+name: nice!60!client
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+outputs:
+  - usb
+  - ble
+url: https://nicekeyboards.com/nice-60-client
